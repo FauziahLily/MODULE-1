@@ -21,6 +21,8 @@ This website is your go-to source for expert dating coaching services. We've got
 
 ### Usage
 
+Visit https://fauziahlily.github.io/MODULE-1/
+
 - **Home Page**: Navigate to `index.html` for an introduction website about.
 
 ![App Screenshot](assets\landingpage.png)
